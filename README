@@ -1,0 +1,10 @@
+This project is a customized version of the CNC Plotter by mith on Thingiverse https://www.thingiverse.com/thing:4796222
+
+Recreated the plotter components in Fusion360 because I only have the hobby license and the number of facets to delete was too much, so I made my own by referencing the design.
+
+Changes made :
+
+Increased the width of the main plates enough to fit a 35mm KP35FM2-035 bipolar stepper motor. Increased the width and pitch of the rack and pinion mechanism.
+Used an Osepp motor and servo driver shield which is equivalent to the Adafruit motor and servo shield V1, Adafruit library works fine with it.
+Printed with an Ender 3 V2 at 18% infill with the Cura slicer.
+Updates:
